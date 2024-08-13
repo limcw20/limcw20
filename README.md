@@ -29,10 +29,8 @@ Check out my LeetCode stats to see my problem-solving progress:
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=elimcw20&theme=dark)
 
-### Let's Connect
+## Let's Connect
 
-Feel free to reach out or follow me!
-
-[LinkedIn](https://www.linkedin.com/in/edmundlcw)
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/edmundlcw)!
 
 Thanks for visiting my profile!
