@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 ##### I specialize in **web programming** with a strong focus on **JavaScript**. My strengths lie in building dynamic and responsive web applications, utilizing modern web technologies and frameworks. I am also planning to expand my backend expertise by building projects with **Java Spring Boot** in the future.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limcw20&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limcw20&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limcw20&layout=compact&theme=react-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limcw20&show_icons=true&theme=react-dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=limcw20&theme=react-dark)
 
 
 
