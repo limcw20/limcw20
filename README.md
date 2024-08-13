@@ -1,21 +1,19 @@
-## Hi there 👋
-<!--
-**limcw20/limcw20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I am Edmund! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a passionate **software developer** with a strong focus on **JavaScript**. I specialize in building dynamic and responsive web applications, leveraging modern technologies and frameworks to create seamless user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+I’m currently honing my problem-solving skills by working on **LeetCode problems** during my free time. This practice helps me stay sharp and enhances my algorithmic thinking and coding abilities.
+
+### Future Plans
+
+I’m excited about expanding my backend development skills and planning to build projects using **Java Spring Boot** in the near future. I aim to deepen my expertise in backend technologies and contribute to robust and scalable applications.
+
 ## My GitHub Stats
 
-##### I specialize in **web programming** with a strong focus on **JavaScript**. My strengths lie in building dynamic and responsive web applications, utilizing modern web technologies and frameworks. I am also planning to expand my backend expertise by building projects with **Java Spring Boot** in the future.
+Here’s a glimpse of my contributions and activity:
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limcw20&layout=compact&theme=react-dark)
 
@@ -26,6 +24,15 @@ Here are some ideas to get you started:
 
 
 ## My LeetCode Stats
-##### I'm currently working on improving my problem-solving skills by tackling **LeetCode problems** during my free time!
+
+Check out my LeetCode stats to see my problem-solving progress:
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=elimcw20&theme=dark)
+
+### Let's Connect
+
+Feel free to reach out or follow me!
+
+[LinkedIn](https://www.linkedin.com/in/edmundlcw)
+
+Thanks for visiting my profile!
