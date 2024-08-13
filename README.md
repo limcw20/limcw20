@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **limcw20/limcw20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +21,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limcw20&show_icons=true&theme=react-dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=limcw20&theme=react-dark)
 
 
 
