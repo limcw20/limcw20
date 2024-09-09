@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m a passionate **software developer** with a s
 
 ### Current Focus
 
-I’m currently honing my problem-solving skills by working on **LeetCode problems** during my free time. This practice helps me stay sharp and enhances my algorithmic thinking and coding abilities.
+ Current focus is on Python, FastAPI, Pymongo, etc. for backend knowledge, looking forward to learn Vue.js for frontend.
 
 ### Future Plans
 
-I’m excited about expanding my backend development skills and planning to build projects using **Java Spring Boot** in the near future. I aim to deepen my expertise in backend technologies and contribute to robust and scalable applications.
+I’m plan to hone my problem-solving skills by working on **LeetCode problems** during my free time.
 
 ## My GitHub Stats
 
