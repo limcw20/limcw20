@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m a passionate **software developer** with a s
 
 ### Current Focus
 
- Current focus is on Python, FastAPI, Pymongo, etc. for backend knowledge, looking forward to learn Vue.js for frontend.
+ My current focus is on Python, FastAPI, Pymongo, etc. for backend knowledge, and Vue.js for frontend.
 
 ### Future Plans
 
-I’m plan to hone my problem-solving skills by working on **LeetCode problems** during my free time.
+I plan to hone my problem-solving skills by working on **LeetCode problems** during my free time.
 
 ## My GitHub Stats
 
