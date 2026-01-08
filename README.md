@@ -1,20 +1,14 @@
-## Hi there, I am Edmund! 👋
+# Hi there, I am Edmund! 👋
 
-Welcome to my GitHub profile! I’m a passionate **full-stack software developer** with a strong focus on **Python**. I started out specializing in Javascript and built dynamic and responsive web applications but have shifted towards Python due to my current job.
+Welcome to my GitHub profile! I’m a former designer, currently working as a full-time **full-stack software developer** while studying a part-time Bachelors Degree in Information Technology in National University of Singapore (NUS). As I continue my studies, I’m eager to explore AI and Machine Learning, aiming to combine my experience as a software developer with my background in design into my professional work. 
+</br>
+</br>
+Beyond working and studying, I strive to build small projects that automate tasks and make life a little easier. Outside of coding, you’ll often find me in climbing gyms around Singapore :-)
 
-### Current Focus
+### Current Projects
+As I am unable to showcase projects from my professional work, I will put up my small projects here instead.
 
- My current focus is on Python (FastAPI), MongoDB(Pymongo) for backend, and Vue.js for frontend. They are all private repositories as they are mainly work-related, sorry!
-
-
-## My GitHub Stats
-
-Here’s a glimpse of my contributions and activity:
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limcw20&layout=compact&theme=react-dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limcw20&show_icons=true&theme=react-dark)
+- [Timesheet Excel Exporter](https://github.com/limcw20/timesheet-excel-export) -> Auto-fill data as it takes too much time to edit values on excel every month
 
 ## Let's Connect
 
