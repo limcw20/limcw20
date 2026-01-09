@@ -8,7 +8,7 @@ Beyond working and studying, I strive to build small projects that automate task
 ### Current Projects
 As I am unable to showcase projects from my professional work, I will put up my small projects here instead.
 
-- [Timesheet Excel Exporter](https://github.com/limcw20/timesheet-excel-export) -> Auto-fill data as it takes too much time to edit values on excel every month
+- [Timesheet Excel Exporter](https://github.com/limcw20/timesheet-excel-export) -> Automates data entry and highlights key fields to save time on monthly edits for my timesheets.
 
 ## Let's Connect
 
