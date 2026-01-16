@@ -1,6 +1,6 @@
 # Hi there, I am Edmund! 👋
 
-Welcome to my GitHub profile! I’m a former designer, currently working as a full-time **full-stack software developer** while studying a part-time Bachelors Degree in Information Technology in National University of Singapore (NUS). As I continue my studies, I’m eager to explore AI and Machine Learning, aiming to combine my experience as a software developer with my background in design into my professional work. 
+Welcome to my GitHub profile! I’m a former designer who designs spaces with light, and I am currently working full-time as a **full-stack software developer** while studying a Bachelors Degree in Information Technology in National University of Singapore (NUS) on a part-time basis. As I continue my studies, I’m eager to explore AI and Machine Learning, aiming to combine my experience as a software developer with my background in design into my professional work. 
 </br>
 </br>
 Beyond working and studying, I strive to build small projects that automate tasks and make life a little easier. Outside of coding, you’ll often find me in climbing gyms around Singapore :-)
