@@ -9,8 +9,8 @@ Beyond working and studying, I strive to build small projects that automate task
 As I am unable to showcase projects from my professional work, I will put up my small projects here instead.
 
 - [Timesheet Excel Exporter](https://github.com/limcw20/timesheet-excel-export) -> Automates data entry and highlights key fields to save time on monthly edits for my timesheets.
-- (Learning Project) -> Image classifier with Tensorflow using MNIST dataset. Target to start on February.
-
+- Target to start on February -> A hand-picked catalog system showcasing cute street T-shirts in Singapore
+  
 ## Let's Connect
 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/edmundlcw)!
