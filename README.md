@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I’m a former designer who designs spaces with li
 Beyond working and studying, I strive to build small projects that automate tasks and make life a little easier. Outside of coding, you’ll often find me in climbing gyms around Singapore :-)
 
 ### Current Projects
+*Update - projects on hold as I'm adjusting to my new job while studying :-)
 As I am unable to showcase projects from my professional work, I will put up my small projects here instead.
 
 - [Timesheet Excel Exporter](https://github.com/limcw20/timesheet-excel-export) -> Automates data entry and highlights key fields to save time on monthly edits for my timesheets.
